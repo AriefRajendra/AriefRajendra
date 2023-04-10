@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AriefRajendra
 - 👀 I’m interested in Economics, Data Analytics, & Data Science
-- 🌱 I’m currently learning Development Economics and Data Analytics with Python
+- 🌱 I’m currently learning Macroeconometrics and Machine Learning with Python
 - 📫 How to reach me: mariefrajendra@gmail.com
 
 <!---
